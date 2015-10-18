@@ -57,7 +57,7 @@
          		 <configuration>
          		       <repoToken>mhDhZkqltdYbnpWWKQ24IDhf60DEUT9BG</repoToken>
          		 </configuration>
-         	/plugin>
+         	</plugin>
 		</plugins>
 	</build>
 
